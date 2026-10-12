@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Khi ngu?i d?ng m? trang b?ng GET, d?i URL c? .php sang URL s?ch.
+# V? d?: /sv1/admin/panel.php -> /sv1/admin/panel
+RewriteCond %{REQUEST_METHOD} =GET
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php(?:[\s?]) [NC]
+RewriteRule ^(.+)\.php$ /$1 [R=302,L,NE]
+
+# N?u URL s?ch tuong ?ng v?i m?t file .php th?t, Apache t? n?p file d?.
+# V? d?: /sv1/admin/panel -> /sv1/admin/panel.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+?)/?$ $1.php [L,QSA]

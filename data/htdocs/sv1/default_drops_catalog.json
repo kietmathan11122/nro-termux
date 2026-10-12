@@ -1,0 +1,2835 @@
+{
+  "boss_drops": [
+    {
+      "boss_key": "GLOBAL_BOSS",
+      "boss_name": "Toàn Bộ Boss (Mặc định server)",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1898,
+          "name": "Mảnh găng tay Daishinkan",
+          "icon": 32004,
+          "category": "event",
+          "event_name": "Sự Kiện Daishinkan"
+        },
+        {
+          "id": 1939,
+          "name": "Mảnh Nguyệt Thực",
+          "icon": 32231,
+          "category": "event",
+          "event_name": "Sự Kiện Nhật Nguyệt"
+        },
+        {
+          "id": 1940,
+          "name": "Mảnh Nhật Thực",
+          "icon": 32232,
+          "category": "event",
+          "event_name": "Sự Kiện Nhật Nguyệt"
+        },
+        {
+          "id": 1941,
+          "name": "Mảnh Bán Nhật Thực",
+          "icon": 32233,
+          "category": "event",
+          "event_name": "Sự Kiện Nhật Nguyệt"
+        },
+        {
+          "id": 1900,
+          "name": "Ghost Rider",
+          "icon": 16187,
+          "category": "event",
+          "event_name": "Map Mabư"
+        }
+      ]
+    },
+    {
+      "boss_key": "B",
+      "boss_name": "B",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "BABY",
+      "boss_name": "Baby",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "TrungUyXanhLo",
+      "boss_name": "TrungUyXanhLo",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 705,
+          "name": "Bí ngô 4 sao",
+          "icon": 6582,
+          "category": "event",
+          "event_name": "Halloween (Bí Ngô)"
+        }
+      ]
+    },
+    {
+      "boss_key": "BLACK_GOKU",
+      "boss_name": "BlackGoku",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 15,
+          "name": "Ngọc Rồng 2 sao",
+          "icon": 420,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 16,
+          "name": "Ngọc Rồng 3 sao",
+          "icon": 421,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 17,
+          "name": "Ngọc Rồng 4 sao",
+          "icon": 422,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 18,
+          "name": "Ngọc Rồng 5 sao",
+          "icon": 423,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 19,
+          "name": "Ngọc Rồng 6 sao",
+          "icon": 424,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 20,
+          "name": "Ngọc Rồng 7 sao",
+          "icon": 425,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 992,
+          "name": "Nhẫn thời không sai lệch",
+          "icon": 9067,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "AnTrom",
+      "boss_name": "AnTrom",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 1507,
+          "name": "Sôcôla Trái Tim",
+          "icon": 12760,
+          "category": "event",
+          "event_name": "Valentine (Socola)"
+        }
+      ]
+    },
+    {
+      "boss_key": "MatTroi",
+      "boss_name": "MatTroi",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1562,
+          "name": "Mặt trời tí hon",
+          "icon": 12953,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "Odo",
+      "boss_name": "Odo",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 19,
+          "name": "Ngọc Rồng 6 sao",
+          "icon": 424,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "SOI_HEC_QUYN",
+      "boss_name": "SoiHecQuyn",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1591,
+          "name": "Hộp quà Goku Day",
+          "icon": 11006,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 1594,
+          "name": "Hộp quà Goku Day",
+          "icon": 11201,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "Virut",
+      "boss_name": "Virut",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1591,
+          "name": "Hộp quà Goku Day",
+          "icon": 11006,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 1594,
+          "name": "Hộp quà Goku Day",
+          "icon": 11201,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "SUPER_BROLY_V1",
+      "boss_name": "SuperBrolyV1",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 16,
+          "name": "Ngọc Rồng 3 sao",
+          "icon": 421,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 2048,
+          "name": "Mảnh Broly v1",
+          "icon": 31868,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 2049,
+          "name": "Mảnh Broly v2",
+          "icon": 21194,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 2058,
+          "name": "Cuốn sách cổ",
+          "icon": 31934,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 2061,
+          "name": "Ngọc Nâng Cấp Ba",
+          "icon": 31927,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 2066,
+          "name": "Thỏi Sắt",
+          "icon": 31937,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 2072,
+          "name": "Đồng Xu",
+          "icon": 31939,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "SIEU_BO_HUNG_1",
+      "boss_name": "SieuBoHung",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "XEN_BO_HUNG_1",
+      "boss_name": "XenBoHung",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "XEN_CON_1",
+      "boss_name": "XENCON1",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "XEN_CON_2",
+      "boss_name": "XENCON2",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "XEN_CON_3",
+      "boss_name": "XENCON3",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "XEN_CON_4",
+      "boss_name": "XENCON4",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "XEN_CON_5",
+      "boss_name": "XENCON5",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "XEN_CON_6",
+      "boss_name": "XENCON6",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "XEN_CON_7",
+      "boss_name": "XENCON7",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "CHILLED",
+      "boss_name": "Chilled",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 2009,
+          "name": "Băng buộc đầu thắm máu",
+          "icon": 31834,
+          "category": "event",
+          "event_name": "Sự Kiện Linh Hồn"
+        },
+        {
+          "id": 2100,
+          "name": "Khủng Long Giáp",
+          "icon": 32253,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "CHILLED_2",
+      "boss_name": "Chilled2",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 2100,
+          "name": "Khủng Long Giáp",
+          "icon": 32253,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "CHILLED_PAST",
+      "boss_name": "ChilledPast",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 2009,
+          "name": "Băng buộc đầu thắm máu",
+          "icon": 31834,
+          "category": "event",
+          "event_name": "Sự Kiện Linh Hồn"
+        },
+        {
+          "id": 2100,
+          "name": "Khủng Long Giáp",
+          "icon": 32253,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "COOLER",
+      "boss_name": "Cooler",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "CUMBER",
+      "boss_name": "Cumber",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "NinjaAoTim",
+      "boss_name": "NinjaAoTim",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 17,
+          "name": "Ngọc Rồng 4 sao",
+          "icon": 422,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "NinjaClone",
+      "boss_name": "NinjaClone",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 17,
+          "name": "Ngọc Rồng 4 sao",
+          "icon": 422,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "RobotVeSi",
+      "boss_name": "RobotVeSi",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 17,
+          "name": "Ngọc Rồng 4 sao",
+          "icon": 422,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "TrungUyThep",
+      "boss_name": "TrungUyThep",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 17,
+          "name": "Ngọc Rồng 4 sao",
+          "icon": 422,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "TrungUyTrang",
+      "boss_name": "TrungUyTrang",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 17,
+          "name": "Ngọc Rồng 4 sao",
+          "icon": 422,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "TrungUyXanhLo",
+      "boss_name": "TrungUyXanhLo",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 17,
+          "name": "Ngọc Rồng 4 sao",
+          "icon": 422,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "BI_MA",
+      "boss_name": "BiMa",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 585,
+          "name": "Bí ngô",
+          "icon": 5138,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "DOI",
+      "boss_name": "Doi",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 585,
+          "name": "Bí ngô",
+          "icon": 5138,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "HalloweenCaiTrangBoss",
+      "boss_name": "HalloweenCaiTrangBoss",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1350,
+          "name": "Kẹo não người",
+          "icon": 11737,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 1353,
+          "name": "Giỏ kẹo kinh dị",
+          "icon": 11740,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 1355,
+          "name": "Giỏ đựng kẹo trái bí",
+          "icon": 11741,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 1356,
+          "name": "Hộp Kẹo Ma Quỷ",
+          "icon": 11743,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 1357,
+          "name": "Kẹo bí ngô",
+          "icon": 11749,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "MA_TROI",
+      "boss_name": "MaTroi",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 585,
+          "name": "Bí ngô",
+          "icon": 5138,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "SON_TINH",
+      "boss_name": "SonTinh",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 421,
+          "name": "Cải trang",
+          "icon": 3099,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "THUY_TINH",
+      "boss_name": "ThuyTinh",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 422,
+          "name": "Cải trang",
+          "icon": 3069,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "ONG_GIA_NOEL",
+      "boss_name": "OngGiaNoel",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 648,
+          "name": "Hộp quà giáng sinh",
+          "icon": 6123,
+          "category": "event",
+          "event_name": "Giáng Sinh"
+        }
+      ]
+    },
+    {
+      "boss_key": "KHIDOT",
+      "boss_name": "KhiDot",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1045,
+          "name": "Đuôi khỉ",
+          "icon": 5072,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "NGUYETTHAN",
+      "boss_name": "NguyetThan",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 2123,
+          "name": "Pet Khỉ Đột",
+          "icon": 32675,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "NHATTTHAN",
+      "boss_name": "NhatThan",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 2124,
+          "name": "Pet Linh Cẩu",
+          "icon": 32676,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "FU",
+      "boss_name": "Fu",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "DEATH_BEAM",
+      "boss_name": "DeathBeam1",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 629,
+          "name": "Cải trang Fide vàng",
+          "icon": 4812,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "DEATH_BEAM",
+      "boss_name": "DeathBeam2",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 629,
+          "name": "Cải trang Fide vàng",
+          "icon": 4812,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "DEATH_BEAM",
+      "boss_name": "DeathBeam3",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 629,
+          "name": "Cải trang Fide vàng",
+          "icon": 4812,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "DEATH_BEAM",
+      "boss_name": "DeathBeam4",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 629,
+          "name": "Cải trang Fide vàng",
+          "icon": 4812,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "DEATH_BEAM",
+      "boss_name": "DeathBeam5",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 629,
+          "name": "Cải trang Fide vàng",
+          "icon": 4812,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "GOLDEN_FRIEZA",
+      "boss_name": "GoldenFrieza",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 629,
+          "name": "Cải trang Fide vàng",
+          "icon": 4812,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "DrLychee",
+      "boss_name": "DrLychee",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 738,
+          "name": "Cải trang Dr Lychee",
+          "icon": 6852,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "Hatchiyack",
+      "boss_name": "Hatchiyack",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 729,
+          "name": "Cải trang Hatchiyack",
+          "icon": 5963,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "BUI_BUI",
+      "boss_name": "BuiBui",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "BUI_BUI_2",
+      "boss_name": "BuiBui2",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "DRABURA",
+      "boss_name": "Drabura",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 15,
+          "name": "Ngọc Rồng 2 sao",
+          "icon": 420,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 16,
+          "name": "Ngọc Rồng 3 sao",
+          "icon": 421,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 17,
+          "name": "Ngọc Rồng 4 sao",
+          "icon": 422,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 18,
+          "name": "Ngọc Rồng 5 sao",
+          "icon": 423,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 19,
+          "name": "Ngọc Rồng 6 sao",
+          "icon": 424,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 20,
+          "name": "Ngọc Rồng 7 sao",
+          "icon": 425,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "DRABURA_2",
+      "boss_name": "Drabura2",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "MABU_12H",
+      "boss_name": "Mabu",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "YACON",
+      "boss_name": "Yacon",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 233,
+          "name": "Áo jean Calic",
+          "icon": 1688,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 237,
+          "name": "Áo vàng Zealot",
+          "icon": 1693,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 241,
+          "name": "Áo lưỡng long",
+          "icon": 1691,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 245,
+          "name": "Quần jean Calic",
+          "icon": 1694,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 249,
+          "name": "Quần vàng Zealot",
+          "icon": 1699,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 253,
+          "name": "Quần lưỡng long",
+          "icon": 1697,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 257,
+          "name": "Găng jean Calic",
+          "icon": 1706,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 261,
+          "name": "Găng vàng Zealot",
+          "icon": 1710,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 265,
+          "name": "Găng lưỡng long",
+          "icon": 1709,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 269,
+          "name": "Giày jean Calic",
+          "icon": 1700,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 273,
+          "name": "Giày vàng Zealot",
+          "icon": 1705,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 277,
+          "name": "Giày lưỡng long",
+          "icon": 1703,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 281,
+          "name": "Rada cấp 12",
+          "icon": 1713,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "MAP_DAU_DINH",
+      "boss_name": "Dodoria",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 2009,
+          "name": "Băng buộc đầu thắm máu",
+          "icon": 31834,
+          "category": "event",
+          "event_name": "Sự Kiện Linh Hồn"
+        }
+      ]
+    },
+    {
+      "boss_key": "FideVang",
+      "boss_name": "FideVang",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 2009,
+          "name": "Băng buộc đầu thắm máu",
+          "icon": 31834,
+          "category": "event",
+          "event_name": "Sự Kiện Linh Hồn"
+        }
+      ]
+    },
+    {
+      "boss_key": "KU",
+      "boss_name": "Ku",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 568,
+          "name": "Quả Trứng",
+          "icon": 2164,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "KUKU",
+      "boss_name": "Kuku",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "MAP_DAU_DINH",
+      "boss_name": "MapDauDinh",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "RAMBO",
+      "boss_name": "Rambo",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "RAMBO",
+      "boss_name": "Zarbon",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 2009,
+          "name": "Băng buộc đầu thắm máu",
+          "icon": 31834,
+          "category": "event",
+          "event_name": "Sự Kiện Linh Hồn"
+        }
+      ]
+    },
+    {
+      "boss_key": "NhanBan",
+      "boss_name": "NhanBan",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 638,
+          "name": "Bình chứa Commeson",
+          "icon": 5829,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "SO_1",
+      "boss_name": "SO1",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1507,
+          "name": "Sôcôla Trái Tim",
+          "icon": 12760,
+          "category": "event",
+          "event_name": "Valentine (Socola)"
+        }
+      ]
+    },
+    {
+      "boss_key": "SO_2",
+      "boss_name": "SO2",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1507,
+          "name": "Sôcôla Trái Tim",
+          "icon": 12760,
+          "category": "event",
+          "event_name": "Valentine (Socola)"
+        }
+      ]
+    },
+    {
+      "boss_key": "SO_3",
+      "boss_name": "SO3",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1507,
+          "name": "Sôcôla Trái Tim",
+          "icon": 12760,
+          "category": "event",
+          "event_name": "Valentine (Socola)"
+        }
+      ]
+    },
+    {
+      "boss_key": "SO_4",
+      "boss_name": "SO4",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 190,
+          "name": "Vàng",
+          "icon": 930,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 1507,
+          "name": "Sôcôla Trái Tim",
+          "icon": 12760,
+          "category": "event",
+          "event_name": "Valentine (Socola)"
+        }
+      ]
+    },
+    {
+      "boss_key": "TIEU_DOI_TRUONG",
+      "boss_name": "TDT",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 1507,
+          "name": "Sôcôla Trái Tim",
+          "icon": 12760,
+          "category": "event",
+          "event_name": "Valentine (Socola)"
+        }
+      ]
+    },
+    {
+      "boss_key": "SO_1_NM",
+      "boss_name": "SO1_NM",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "SO_2_NM",
+      "boss_name": "SO2_NM",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "SO_3_NM",
+      "boss_name": "SO3_NM",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "SO_4_NM",
+      "boss_name": "SO4_NM",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 19,
+          "name": "Ngọc Rồng 6 sao",
+          "icon": 424,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 20,
+          "name": "Ngọc Rồng 7 sao",
+          "icon": 425,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        },
+        {
+          "id": 429,
+          "name": "Cải trang",
+          "icon": 1871,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "TIEU_DOI_TRUONG_NM",
+      "boss_name": "TDT_NM",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "BIDO",
+      "boss_name": "BIDO",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "BOJACK",
+      "boss_name": "BOJACK",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "BUJIN",
+      "boss_name": "BUJIN",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "KOGU",
+      "boss_name": "KOGU",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "SUPER_BOJACK_2",
+      "boss_name": "SUPER_BOJACK",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "ZANGYA",
+      "boss_name": "ZANGYA",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 77,
+          "name": "Ngọc",
+          "icon": 932,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    },
+    {
+      "boss_key": "Yardart",
+      "boss_name": "Yardart",
+      "boss_id": 0,
+      "items": [
+        {
+          "id": 590,
+          "name": "Bí kiếp",
+          "icon": 5207,
+          "category": "normal",
+          "event_name": ""
+        }
+      ]
+    }
+  ],
+  "mob_normal_drops": [
+    {
+      "id": 190,
+      "name": "Vàng",
+      "icon": 930,
+      "category": "normal",
+      "desc": "Rơi từ mọi quái thường"
+    },
+    {
+      "id": 14,
+      "name": "Ngọc rồng 1 sao",
+      "icon": 419,
+      "category": "normal",
+      "desc": "Tỉ lệ rơi ngẫu nhiên"
+    },
+    {
+      "id": 15,
+      "name": "Ngọc rồng 2 sao",
+      "icon": 420,
+      "category": "normal",
+      "desc": "Tỉ lệ rơi ngẫu nhiên"
+    },
+    {
+      "id": 16,
+      "name": "Ngọc rồng 3 sao",
+      "icon": 421,
+      "category": "normal",
+      "desc": "Tỉ lệ rơi ngẫu nhiên"
+    },
+    {
+      "id": 17,
+      "name": "Ngọc rồng 4 sao",
+      "icon": 422,
+      "category": "normal",
+      "desc": "Tỉ lệ rơi ngẫu nhiên"
+    },
+    {
+      "id": 18,
+      "name": "Ngọc rồng 5 sao",
+      "icon": 423,
+      "category": "normal",
+      "desc": "Tỉ lệ rơi ngẫu nhiên"
+    },
+    {
+      "id": 19,
+      "name": "Ngọc rồng 6 sao",
+      "icon": 424,
+      "category": "normal",
+      "desc": "Tỉ lệ rơi ngẫu nhiên"
+    },
+    {
+      "id": 20,
+      "name": "Ngọc rồng 7 sao",
+      "icon": 425,
+      "category": "normal",
+      "desc": "Tỉ lệ rơi ngẫu nhiên"
+    },
+    {
+      "id": 220,
+      "name": "Đá nâng cấp cấp 1",
+      "icon": 710,
+      "category": "normal",
+      "desc": "Rơi quái thường"
+    },
+    {
+      "id": 221,
+      "name": "Đá nâng cấp cấp 2",
+      "icon": 711,
+      "category": "normal",
+      "desc": "Rơi quái thường"
+    },
+    {
+      "id": 222,
+      "name": "Đá nâng cấp cấp 3",
+      "icon": 712,
+      "category": "normal",
+      "desc": "Rơi quái thường"
+    },
+    {
+      "id": 223,
+      "name": "Đá nâng cấp cấp 4",
+      "icon": 713,
+      "category": "normal",
+      "desc": "Rơi quái thường"
+    },
+    {
+      "id": 224,
+      "name": "Đá nâng cấp cấp 5",
+      "icon": 714,
+      "category": "normal",
+      "desc": "Rơi quái thường"
+    }
+  ],
+  "mob_event_drops": [
+    {
+      "id": 1609,
+      "name": "Kem Trái Cây",
+      "icon": 9605,
+      "category": "event",
+      "event_name": "Sự Kiện Mùa Hè",
+      "desc": "Mọi quái 5% rơi Kem"
+    },
+    {
+      "id": 380,
+      "name": "Capsule Kì Bí",
+      "icon": 2759,
+      "category": "event",
+      "event_name": "Máy Dò Capsule",
+      "desc": "Dùng máy dò quái 58-65"
+    },
+    {
+      "id": 2005,
+      "name": "Máy dò 2",
+      "icon": 2759,
+      "category": "event",
+      "event_name": "Sự Kiện Tương Lai",
+      "desc": "Map 92-103"
+    },
+    {
+      "id": 2007,
+      "name": "Linh hồn",
+      "icon": 11471,
+      "category": "event",
+      "event_name": "Sự Kiện Linh Hồn",
+      "desc": "Map 202"
+    },
+    {
+      "id": 2008,
+      "name": "Linh hồn 2",
+      "icon": 20617,
+      "category": "event",
+      "event_name": "Sự Kiện Linh Hồn",
+      "desc": "Map 202"
+    },
+    {
+      "id": 2009,
+      "name": "Linh hồn 3",
+      "icon": 31834,
+      "category": "event",
+      "event_name": "Sự Kiện Linh Hồn",
+      "desc": "Map 202"
+    },
+    {
+      "id": 2011,
+      "name": "Vệ tinh dò thám",
+      "icon": 31835,
+      "category": "event",
+      "event_name": "Nhiệm vụ 33_2",
+      "desc": "Map 204 Đảo Chết"
+    },
+    {
+      "id": 2014,
+      "name": "Linh kiện Big Gete",
+      "icon": 20573,
+      "category": "event",
+      "event_name": "Nhiệm vụ Big Gete",
+      "desc": "Map 206 quái 119"
+    },
+    {
+      "id": 2035,
+      "name": "Bùa Robot",
+      "icon": 31899,
+      "category": "event",
+      "event_name": "Máy dò 2 Bùa",
+      "desc": "Map 206"
+    },
+    {
+      "id": 1894,
+      "name": "Mảnh Thần Bí 1",
+      "icon": 32001,
+      "category": "event",
+      "event_name": "Sự Kiện Daishinkan",
+      "desc": "Map 209 (Set Thiên Sứ)"
+    },
+    {
+      "id": 1895,
+      "name": "Mảnh Thần Bí 2",
+      "icon": 32002,
+      "category": "event",
+      "event_name": "Sự Kiện Daishinkan",
+      "desc": "Map 209 (Set Thiên Sứ)"
+    },
+    {
+      "id": 1896,
+      "name": "Mảnh Thần Bí 3",
+      "icon": 32003,
+      "category": "event",
+      "event_name": "Sự Kiện Daishinkan",
+      "desc": "Map 209 (Set Thiên Sứ)"
+    },
+    {
+      "id": 1897,
+      "name": "Mảnh Thần Bí 4",
+      "icon": 32005,
+      "category": "event",
+      "event_name": "Sự Kiện Daishinkan",
+      "desc": "Map 209 (Set Thiên Sứ)"
+    }
+  ]
+}

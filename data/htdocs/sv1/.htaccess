@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Support the existing extensionless links (for example /sv1/admin/panel)
+# while the actual website files use the .php extension.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+?)/?$ $1.php [L]

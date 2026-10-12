@@ -1,0 +1,3 @@
+@ECHO OFF
+echo Server dang khoi dong lai...
+call run.bat
